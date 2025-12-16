@@ -122,8 +122,8 @@ Verified encrypted tunnel
 ✔️ Full project documented
 ✔️ Screenshots included
 
-📎 Author
+📎 Thank you, 
 Karim Haidari
 Cybersecurity Student | University of Tulsa
 
-https://github.com/KarimHaidari2/WireGuard-Lab-Project/edit/main/README.md 
+https://github.com/KarimHaidari2/WireGuard-Lab-Project/edit/main/README.md  
